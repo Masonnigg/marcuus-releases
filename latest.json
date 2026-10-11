@@ -1,17 +1,17 @@
 {
-  "version": "1.0.4",
-  "notes": "Mises à jour automatiques : quand une nouvelle version sort, MARCUUS demande de se mettre à jour et le fait en un clic (réglages et fichiers conservés). La version installée est affichée dans Réglages.",
-  "date": "2026-10-10T23:47:11.757Z",
+  "version": "1.0.5",
+  "notes": "Corrige les sous-titres ajoutés après la fin de l'audio (Whisper inventait des mots dans la dernière fraction de seconde).",
+  "date": "2026-10-11T03:06:21.166Z",
   "assets": {
     "arm64": {
-      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.4/MARCUUS-1.0.4-arm64.zip",
-      "sha256": "7d029dbcdce1e5e9446c29c10c37cbd3a188302978d12132b2ccd86efac4241a",
-      "size": 163204347
+      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.5/MARCUUS-1.0.5-arm64.zip",
+      "sha256": "c6c35f9cd144a955867fcb5de5fb2b9310012bb97a013aa9dd75e86b49d89f7c",
+      "size": 163206264
     },
     "x64": {
-      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.4/MARCUUS-1.0.4-x64.zip",
-      "sha256": "1da1123b8a05563920a9e0d494d744d61d2bae0a68bcb5b3bfaa607051e1ce7a",
-      "size": 134945495
+      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.5/MARCUUS-1.0.5-x64.zip",
+      "sha256": "1e1170c47607ebb3b55f07774eada25bdb638638e73037e4b7b21314bacb66b0",
+      "size": 134947409
     }
   }
 }
