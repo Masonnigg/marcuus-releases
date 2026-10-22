@@ -1,17 +1,17 @@
 {
-  "version": "1.0.5",
-  "notes": "Corrige les sous-titres ajoutés après la fin de l'audio (Whisper inventait des mots dans la dernière fraction de seconde).",
-  "date": "2026-10-11T03:06:21.166Z",
+  "version": "1.0.6",
+  "notes": "Nouvelle icône.",
+  "date": "2026-10-22T01:34:15.141Z",
   "assets": {
     "arm64": {
-      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.5/MARCUUS-1.0.5-arm64.zip",
-      "sha256": "c6c35f9cd144a955867fcb5de5fb2b9310012bb97a013aa9dd75e86b49d89f7c",
-      "size": 163206264
+      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.6/MARCUUS-1.0.6-arm64.zip",
+      "sha256": "f2940cf5eac737e491973739493997e944b7521fd0763d2c5b30217a175a4360",
+      "size": 163381450
     },
     "x64": {
-      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.5/MARCUUS-1.0.5-x64.zip",
-      "sha256": "1e1170c47607ebb3b55f07774eada25bdb638638e73037e4b7b21314bacb66b0",
-      "size": 134947409
+      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.6/MARCUUS-1.0.6-x64.zip",
+      "sha256": "558fa6e3e14ea1100af2d17acc7842297d93c7b398f70a34a67d315d45d98a11",
+      "size": 135122610
     }
   }
 }
