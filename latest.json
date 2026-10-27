@@ -1,17 +1,17 @@
 {
-  "version": "1.0.7",
-  "notes": "Nouvel onglet Hook : glisse un MP3 ou une vidéo, l'IA trouve le hook pour ouvrir le Reel, le body à garder, 3 titres et la légende. Analyse avec ton abonnement Claude (ou ChatGPT avec une clé API, dans Réglages).",
-  "date": "2026-10-27T15:36:37.618Z",
+  "version": "1.0.8",
+  "notes": "Onglet Hook : nouveau bouton Premiere. Il enregistre une séquence verticale déjà coupée (le hook puis le body), à glisser dans le panneau Projet de Premiere. Hooks plus accrocheurs et plus réguliers : Claude note plusieurs phrases, MARCUUS garde la meilleure, toujours la même pour le même clip.",
+  "date": "2026-10-27T17:46:08.739Z",
   "assets": {
     "arm64": {
-      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.7/MARCUUS-1.0.7-arm64.zip",
-      "sha256": "44d42ba23bc0f6e6be85b106aa646ffbc6335578c778100f3937b64bafb07686",
-      "size": 163390231
+      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.8/MARCUUS-1.0.8-arm64.zip",
+      "sha256": "0bce848fa3f261ade2de31732b76cbb3279154c7ae7aa8ffe3242006990bfc04",
+      "size": 163395573
     },
     "x64": {
-      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.7/MARCUUS-1.0.7-x64.zip",
-      "sha256": "47299a916cdb79f7e05a9b717d49518cbf6677b7dc795ff6b965ed35c983067b",
-      "size": 135131391
+      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.8/MARCUUS-1.0.8-x64.zip",
+      "sha256": "d4082a9998f2ac13068873e2a07fa68d89fda4d022cd2513dd30735cc0049972",
+      "size": 135136718
     }
   }
 }
