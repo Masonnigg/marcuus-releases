@@ -1,17 +1,17 @@
 {
-  "version": "1.0.8",
-  "notes": "Onglet Hook : nouveau bouton Premiere. Il enregistre une séquence verticale déjà coupée (le hook puis le body), à glisser dans le panneau Projet de Premiere. Hooks plus accrocheurs et plus réguliers : Claude note plusieurs phrases, MARCUUS garde la meilleure, toujours la même pour le même clip.",
-  "date": "2026-10-27T17:46:08.739Z",
+  "version": "1.0.9",
+  "notes": "Nouveau : connecte ton compte ChatGPT (Réglages › Continue with ChatGPT). L'onglet Hook utilise ton forfait Plus ou Pro, sans clé API ni frais en plus. Les longs enregistrements donnent maintenant des Reels avec des messages vraiment différents. MARCUUS est open source (GPL-3.0).",
+  "date": "2026-10-28T21:13:36.446Z",
   "assets": {
     "arm64": {
-      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.8/MARCUUS-1.0.8-arm64.zip",
-      "sha256": "0bce848fa3f261ade2de31732b76cbb3279154c7ae7aa8ffe3242006990bfc04",
-      "size": 163395573
+      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.9/MARCUUS-1.0.9-arm64.zip",
+      "sha256": "19f3b52a14ec132d968c892912f5004c66fa5788043a686172a76118682af601",
+      "size": 163404226
     },
     "x64": {
-      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.8/MARCUUS-1.0.8-x64.zip",
-      "sha256": "d4082a9998f2ac13068873e2a07fa68d89fda4d022cd2513dd30735cc0049972",
-      "size": 135136718
+      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.9/MARCUUS-1.0.9-x64.zip",
+      "sha256": "31c1135713f36e99e5385d1e6348e38d94bdc601e88fa81bcd7be209ad128029",
+      "size": 135145368
     }
   }
 }
