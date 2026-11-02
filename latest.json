@@ -1,30 +1,30 @@
 {
-  "version": "1.0.10",
-  "notes": "Transcrire et SRT Fixer : nouveau bouton Sélectionner pour exporter plusieurs SRT d'un coup. Mises à jour légères : à partir de maintenant, seuls les fichiers modifiés sont téléchargés, quelques centaines de Ko au lieu de 160 Mo.",
-  "date": "2026-11-01T19:42:10.658Z",
+  "version": "1.0.11",
+  "notes": "Nouvel onglet 4x5 : glisse un dossier ou des vidéos verticales, MARCUUS crée des copies en 4:5 (recadrées au milieu, sans perte visible, environ deux fois plus légères) dans un dossier « 4x5 » avec les mêmes sous-dossiers. Encodage Qualité (CPU) ou Rapide (GPU).",
+  "date": "2026-11-02T21:34:02.782Z",
   "assets": {
     "arm64": {
-      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.10/MARCUUS-1.0.10-arm64.zip",
-      "sha256": "df48c42d5615b3c1e9d056c554287087163c413e6ccbedd8d9ec98ea400b3b3e",
-      "size": 163407304,
+      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.11/MARCUUS-1.0.11-arm64.zip",
+      "sha256": "ef95efa8fed7289095a0dc5e03a2d7333e0ac0836ea2a4cc613918918373a125",
+      "size": 163413779,
       "patch": {
-        "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.10/MARCUUS-1.0.10-arm64.patch.zip",
-        "sha256": "83439870ad344b34dbb46e230b9ee0a1270829309db084d662b9acedb712abc8",
-        "size": 505776,
+        "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.11/MARCUUS-1.0.11-arm64.patch.zip",
+        "sha256": "1d0c6cebdf8f23bfb4e801636f266188328f98423bb4d7ad8641b33d085ac459",
+        "size": 512251,
         "base": "88c920017d07ea218c42b1faa4fe78ca8d763f44c0e13dd5d6861420dc216f81",
-        "full": "875f1b3c222fefa2d6dd63feaf4a778ae51baf244febc384adf6cc54c3be795d"
+        "full": "9e7cf86e77ce1c5f9c1ef6ad45f5ef970770a8144dbab6d63468d7fe54a0d322"
       }
     },
     "x64": {
-      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.10/MARCUUS-1.0.10-x64.zip",
-      "sha256": "b773606e77f4e7b59aea692388b4546954ed6326774ede28732f415bd9fd04dd",
-      "size": 135148452,
+      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.11/MARCUUS-1.0.11-x64.zip",
+      "sha256": "240489a287debf99ed8ac20c91e3e55e22f9b54d30540ad1107606d9c5aceeb4",
+      "size": 135154932,
       "patch": {
-        "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.10/MARCUUS-1.0.10-x64.patch.zip",
-        "sha256": "a3a7dfd00a98c35e4faa2cd6581ad0802e94694f5f7dd7cf551db9105ced26bd",
-        "size": 536057,
+        "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.11/MARCUUS-1.0.11-x64.patch.zip",
+        "sha256": "b569e3bed39c4484c283b54d310e9c9d0e5983d06063b24bd9cdf9bb80d1b43a",
+        "size": 542537,
         "base": "102de309ea8267c61878e6a9a488f9c6e570d7f4a561cbe82595f27cd99fca05",
-        "full": "6d73e4c4b31d716029c0aef3ee3a63d3e292fda3f6e0b36c41743a016710adcf"
+        "full": "937f313b474df8638ad113e4b6d1b8dbae6a80e58e10920dfd5941932b62f021"
       }
     }
   }
