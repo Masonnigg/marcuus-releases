@@ -1,30 +1,30 @@
 {
-  "version": "1.0.12",
-  "notes": "Nouvel onglet Pubs : le brief du client + les rushes → toutes les pubs d’un script construites dans Premiere, avec ChatGPT ou Claude au choix. Nouveau panneau Premiere RYACHA, à installer depuis Réglages : import des rushes, sous-titres stylés, zooms, export 9x16 et 4x5. L’app s’appelle maintenant RYACHA.",
-  "date": "2026-11-05T14:30:38.137Z",
+  "version": "1.0.13",
+  "notes": "L’app s’appelle maintenant RYACHA partout. Après la mise à jour, redémarre Premiere puis ouvre Fenêtre › Extensions › RYACHA : le panneau garde ses réglages.",
+  "date": "2026-11-05T15:06:00.063Z",
   "assets": {
     "arm64": {
-      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.12/MARCUUS-1.0.12-arm64.zip",
-      "sha256": "c5fc4e043efef60fe9c2c057c8d0eebae33a73d88be435f13221757f6dc95978",
-      "size": 164408764,
+      "url": "https://github.com/Masonnigg/ryacha-releases/releases/download/v1.0.13/RYACHA-1.0.13-arm64.bridge.zip",
+      "sha256": "a683e28c625bb70f1dc58ebe79a127ee44313576950f08a408008e6d6033e2ec",
+      "size": 164405529,
       "patch": {
-        "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.12/MARCUUS-1.0.12-arm64.patch.zip",
-        "sha256": "3d6bcf9606ec079d3d17f1d26ef5c8cbba2f3366f10c43d3105044993e1d5c23",
-        "size": 1506596,
-        "base": "88c920017d07ea218c42b1faa4fe78ca8d763f44c0e13dd5d6861420dc216f81",
-        "full": "557206bce87430284ab72eb1fba0a994954a1d3515c71c41daa16775a62e45f2"
+        "url": "https://github.com/Masonnigg/ryacha-releases/releases/download/v1.0.13/RYACHA-1.0.13-arm64.bridge.patch.zip",
+        "sha256": "ebf0acdaf3e54798e0f77274e1ddfb8b321e2e228b12d54ac37e50d83a4b5cef",
+        "size": 1507580,
+        "base": "4d8f3dd03a019651b3ac759c2580b1aff755dc95a7a1002c1ba871e808bcece8",
+        "full": "a1e4391cffe3e1e893c5c29b9aa206037dbe4a08449214564cba8181233f4e32"
       }
     },
     "x64": {
-      "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.12/MARCUUS-1.0.12-x64.zip",
-      "sha256": "3220075f8e94a0945c52ea76e23abf49393d0e0d58e1a529119790e62527b72d",
-      "size": 136149917,
+      "url": "https://github.com/Masonnigg/ryacha-releases/releases/download/v1.0.13/RYACHA-1.0.13-x64.bridge.zip",
+      "sha256": "55891f1ddc2731d731ee54bb192aab4f9109e0b917bc521436037a1deb9421e0",
+      "size": 136146692,
       "patch": {
-        "url": "https://github.com/Masonnigg/marcuus-releases/releases/download/v1.0.12/MARCUUS-1.0.12-x64.patch.zip",
-        "sha256": "2b4b8e63e1b225fc8d580570de656c9b103cac433c9268a3d563cc5479875677",
-        "size": 1536882,
-        "base": "102de309ea8267c61878e6a9a488f9c6e570d7f4a561cbe82595f27cd99fca05",
-        "full": "22d2fe57a3b24b63527fd68a39547b658463427439df9fcd2d9d0d004377753e"
+        "url": "https://github.com/Masonnigg/ryacha-releases/releases/download/v1.0.13/RYACHA-1.0.13-x64.bridge.patch.zip",
+        "sha256": "984ee6c8fb30efc05c4317f5d80f0d40cfa06ecf3f12363e10d58d2f58a61b7b",
+        "size": 1537876,
+        "base": "a5b957b14c31c7012e0ebe5ace1439d7809bf639abe5f39f6084b7744ef7ada3",
+        "full": "ab4310ddd85b3c5ab7c388661a8c54f20acfd211f290c7caa11e0ff7e6ede4ff"
       }
     }
   }
